@@ -1,0 +1,20 @@
+##JSON Clientes Digna
+*Dados do cliente (Nome Completo, CPF, DtNascimento, Endereço Completo)
+*Dependentes (Nome Completo, CPF, DtNascimento)
+
+##JSON Produtos
+Vamos imaginar que você precisa organizar os produtos de um mercadinho
+*Dados dos produtos (Nome, Tipo, Decrição, Preço, Categoria, Quantidade)
+*locais de venda(setor, nome do mercado,código do mercado)
+
+##JSON Fábrica de Carros
+Vamos imaginar que será necessário criar uma tabela contendo as informações completas de um Carro
+*Dados do carro (Nome, Quantidade de Portas, Ano de Fabricação, Quantidade de Cavalos, Cor, Marca)
+*locais de venda(cidade,estado,nome da loja)
+
+Observações:
+-O JSON precisa ser iniciado com Chaves ("{}")
+-O JSON é organizado por "propriedade" : "Valor"
+-Entre uma propriedade e outra, deve usar vírgula
+-O JSON ele precisa que todas as propriedades sejam Case Sensitive (Primeira letra minúscula, primeira letra da segunda palavra maiúscula)
+

@@ -1,0 +1,21 @@
+QA = Analista de Qualidade (Quality Analystic)
+Testers = Garantem a funcionalidade do sistema
+Duas funcionalidades básicas:
+1.	Testar
+2.	Garantir qualidade do software (Mobile ou Web)
+a.	O Desenvolvedor tem um protótipo para tomar como base, ou seja, o QA tem que garantir que o sistema esteja igual ao protótipo
+b.	Deixar o sistema simplificado.
+JSON = Comunicador universal
+Existem duas maneiras de testar os Endpoints (saem da API com destino ao Front-End)
+1.	Swagger
+2.	Postman
+
+
+A estudar:
+•	Lembra de estudar bibliotecas (componentes e tipos)
+•	Métodos HTTP
+•	Metadatas
+•	Arrays e Objetos (Rodrigo pode ensinar)
+•	Identação de Código
+•	Tipos de variável ( números, string e data)
+•	CI/CD
