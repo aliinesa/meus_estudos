@@ -12,10 +12,10 @@ Existem duas maneiras de testar os Endpoints (saem da API com destino ao Front-E
 
 
 A estudar:
-•	Lembra de estudar bibliotecas (componentes e tipos)
-•	Métodos HTTP
-•	Metadatas
 •	Arrays e Objetos (Rodrigo pode ensinar)
-•	Identação de Código
 •	Tipos de variável ( números, string e data)
+•	Identação de Código
+•	Métodos HTTP
+•	Lembra de estudar bibliotecas (componentes e tipos)
+•	Metadatas
 •	CI/CD

@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "march",
+        "quantidadePortas": "4",
+        "anoFabricação": "2019",
+        "quantidadeCavalos": "25 cavalos",
+        "cor": "vermelho",
+        "marca": "Nissan",
+        "locaisVenda": [
+            {
+                "cidade": "Campina Grande",
+                "Estado": "Paraíba",
+                "nomeLoja": "Nissan Carros"
+            }
+        ]
+    }
+]
