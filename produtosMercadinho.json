@@ -1,0 +1,50 @@
+[
+    {
+        "nome": "cafe",
+        "tipo": "Grãos",
+        "descricao": "Café Bland 250g",
+        "preco": "7,00",
+        "categoria": "matinais",
+        "quantidade": "250g",
+        "locaisVenda": [
+            {
+                "setor": "1",
+                "nomeMercado": "Rede Compras",
+                "codigoMercado": "3"
+            },
+            {
+                "setor": "2",
+                "nomeMercado": "Rede Compras",
+                "codigoMercado": "2"
+            },
+            {
+                "setor": "3",
+                "nomeMercado": "Rede Compras",
+                "codigoMercado": "4"
+            }
+        ]
+    },
+    {
+        "nome": "Leite",
+        "tipo": "liquido",
+        "descricao": "Leite Betânia integral 500g",
+        "quantidade": "500g",
+        "locaisVenda": [
+            {
+                "setor": "4",
+                "nomeMercado": "Rede Compras",
+                "codigoMercado": "1"
+            },
+            {
+                "setor": "3",
+                "nomeMercado": "Rede Compras",
+                "codigoMercado": "3"
+            },
+            {
+                "setor":"5",
+                "nomeMercado":"Rede Compras",
+                "codigoMercado":"4"
+            }
+        ]
+    }
+]
