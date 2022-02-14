@@ -12,10 +12,35 @@ Existem duas maneiras de testar os Endpoints (saem da API com destino ao Front-E
 
 
 A estudar:
-•	Lembra de estudar bibliotecas (componentes e tipos)
-•	Métodos HTTP
+•	Arrays, Objetos e JSONS (Rodrigo pode ensinar)
 •	Metadatas
-•	Arrays e Objetos (Rodrigo pode ensinar)
 •	Identação de Código
-•	Tipos de variável ( números, string e data)
+•	Lembra de estudar bibliotecas (Material Design do google e Bootstrap do Twitter)
+    https://material.angular.io/components/table/overview
+    https://getbootstrap.com.br/docs/4.1/components/progress/
+•	Cenário e casos de teste
+•	Métodos HTTP
+•	Tipos de variável ( number, string e data)
 •	CI/CD
+
+################ assistir algum vídeo ##################
+SOFT SKIL
+• COMUNICAÇÃO!!!
+    • Deixar sempre claro de que forma foi testado
+    • Entender perfeitamente o que a lógica de negócio está mostrando
+    • Deixar sempre claro o que foi testado e a maneira que foi testado
+    • No caso de bugs, deixar sempre descrito o que foi feito para simular o erro (Prints, detalhes das informações inseridas, navegador, permissão)
+    • No Caso de atividades, fazer o mesmo. 
+    • Tomar a frente no que cabe a qualidade ou facilidades de uso
+    • Dar ideias em grupos, nas reuniões se mostrar sempre ativa! é importantíssimo!!!
+
+################ a estudar e complementar ##################
+METODOLOGIAS DE TRABALHO
+• METODOLOGIA ÁGIL
+    • SCRUM
+        -É dividida em partes (SPRINTS), podendo ter 8, 15 ou 30 dias.
+        • Possui várias cerimônias:
+            • Dailys - Reuniões diárias em que é informado o que foi feito no dia anterior, o que será feito no dia atual e se há algum impedimento.
+            • Retrospectiva - Reunião uma vez por SPRINT, sendo no final da mesma para conversa entre integrantes onde tudo aquilo que foi impedimento
+            será conversado.
+            • .....
